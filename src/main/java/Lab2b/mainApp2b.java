@@ -1,6 +1,6 @@
 package Lab2b;
 
-/* Comp3111Ex\Lab2b\Book.java
+/* Comp3111Ex\Lab2b\mainApp2b.java
     main Application for Lab2 Exercise 2 */
 public class mainApp2b {
     public static void main(String[] args) {
